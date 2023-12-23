@@ -28,7 +28,7 @@ Each screen-scraped item in the raw text file looks like this:
 >2023-9370
 >
 
-Leave a blank line between each item.
+Leave at last one blank line between each item.
 
 ### Output format
 
