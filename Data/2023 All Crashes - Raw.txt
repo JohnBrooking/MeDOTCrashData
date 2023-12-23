@@ -1,0 +1,699 @@
+Report: 23-014402/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+3/24/2023  4:46 PM
+Location
+PARK AV
+Int of PARK AV ST JOHN ST, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-9370
+
+Report: 23-014530/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+3/25/2023  8:53 AM
+Location
+ST JOHN ST
+Int of PARK AV ST JOHN ST, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-9380
+
+Report: 23-066366/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+12/17/2023  2:48 PM
+Location
+ST JOHN ST
+Park Avenue And St John Street, PORTLAND
+Type Of Crash
+Intersection Movement
+MDOT ID
+2023-37996
+
+Report: 23-036106/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+7/14/2023  3:00 PM
+Location
+PARK AV
+Int of PARK AV ST JOHN ST, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-20146
+
+Report: 23-64605/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+12/6/2023  8:40 AM
+Location
+ST JOHN ST
+Non Int ST JOHN ST, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-37074
+
+Report: 23-030580/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+6/19/2023  2:50 PM
+Location
+ST JOHN ST
+Int of ST JOHN ST WASHBURN AV, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-17201
+
+Report: 23-008510/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+2/17/2023  9:33 PM
+Location
+PARK AV
+Int of FOREST ST PARK AV, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-5509
+
+Report: 23-056431/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+10/19/2023  9:24 PM
+Location
+PARK AV
+Int of PARK AV ST JOHN ST, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-30329
+
+Report: 23-065998/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+12/15/2023  8:33 AM
+Location
+ST JOHN ST
+Int of PARK AV ST JOHN ST, PORTLAND
+Type Of Crash
+Intersection Movement
+MDOT ID
+2023-37716
+
+Report: 23-000717/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+1/5/2023  10:30 AM
+Location
+PARK AV
+Int of PARK AV ST JOHN ST, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-222
+
+Report: 23-006008/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+2/4/2023  8:53 AM
+Location
+PARK AV
+Int of PARK AV ST JOHN ST, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-3887
+
+Report: 23-010803/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+3/3/2023  3:16 PM
+Location
+ST JOHN ST
+Int of PARK AV ST JOHN ST, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-7155
+
+Report: 23-051493/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+9/24/2023  4:12 PM
+Location
+Park Ave
+St. John St., PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-27808
+
+Report: 23-042623/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+8/12/2023  5:50 PM
+Location
+PARK AV
+Int of PARK AV WEYMOUTH ST, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-23289
+
+Report: 23-010559/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+3/2/2023  10:45 AM
+Location
+VALLEY ST
+Int of PARK AV VALLEY ST, PORTLAND
+Type Of Crash
+Intersection Movement
+MDOT ID
+2023-7386
+
+Report: 23-018175/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+4/14/2023  4:38 PM
+Location
+PARK AV
+Int of PARK AV VALLEY ST, PORTLAND
+Type Of Crash
+Intersection Movement
+MDOT ID
+2023-11322
+
+Report: 23-013209/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+3/17/2023  10:13 PM
+Location
+Park Ave
+Valley Street, PORTLAND
+Type Of Crash
+Intersection Movement
+MDOT ID
+2023-8716
+
+Report: 23-029257/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+6/13/2023  6:57 AM
+Location
+Three Leg Intersection
+WEYMOUTH ST, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2023-16608
+
+Report: 23-037257/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+7/19/2023  6:11 PM
+Location
+PARK AV
+Int of PARK AV WEYMOUTH ST, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-20673
+
+Report: 23-038163/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+7/23/2023  10:12 PM
+Location
+Park Ave
+Weymouth St, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-20937
+
+Report: 23-006593/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+2/7/2023  4:40 AM
+Location
+PARK AV
+Int of PARK AV WEYMOUTH ST, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-4191
+
+Report: 23-064296/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+12/4/2023  9:08 AM
+Location
+Driveway
+PARK AV, PORTLAND
+Type Of Crash
+Intersection Movement
+MDOT ID
+2023-36091
+
+Report: 23-037777/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+7/21/2023  11:04 PM
+Location
+DEERING AV
+Int of DEERING AV PARK AV, PORTLAND
+Type Of Crash
+Intersection Movement
+MDOT ID
+2023-20929
+
+Report: 23-028180/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+6/7/2023  3:00 PM
+Location
+PARK AV
+Int of MELLEN ST PARK AV, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-15990
+
+Report: 23-042103/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+8/10/2023  12:30 PM
+Location
+PARK AV
+Int of MELLEN ST PARK AV, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-22992
+
+Report: 23-025252/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+5/23/2023  8:25 PM
+Location
+PARK AV
+Int of MELLEN ST PARK AV, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-14516
+
+Report: 23-060897/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+11/13/2023  3:03 PM
+Location
+PARK AV
+Int of MELLEN ST PARK AV, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-33279
+
+Report: 23-046931/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+9/2/2023  3:10 PM
+Location
+PARK AV
+Int of MELLEN ST PARK AV, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-25785
+
+Report: 23-022831/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+5/10/2023  5:12 PM
+Location
+PARK AV
+Int of PARK AV STATE ST STATE ST EXT, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-13581
+
+Report: 23-041501/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+8/7/2023  1:00 PM
+Location
+PARK AV
+Int of PARK AV STATE ST STATE ST EXT, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-22589
+
+Report: 23-036844/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+7/17/2023  6:24 PM
+Location
+STATE ST
+Int of PARK AV STATE ST STATE ST EXT, PORTLAND
+Type Of Crash
+Intersection Movement
+MDOT ID
+2023-20300
+
+Report: 23-062221/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+11/21/2023  8:25 AM
+Location
+PARK AV
+Int of PARK AV STATE ST STATE ST EXT, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-35273
+
+Report: 23-005952/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+2/3/2023  9:52 PM
+Location
+PARK AV
+Int of PARK AV STATE ST STATE ST EXT, PORTLAND
+Type Of Crash
+Intersection Movement
+MDOT ID
+2023-3885
+
+Report: 23-032860/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+6/30/2023  11:37 PM
+Location
+State Street
+Park Avenue, PORTLAND
+Type Of Crash
+Intersection Movement
+MDOT ID
+2023-18335
+
+Report: 23-024704/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+5/20/2023  6:50 PM
+Location
+STATE ST EXT
+Int of PARK AV STATE ST STATE ST EXT, PORTLAND
+Type Of Crash
+Intersection Movement
+MDOT ID
+2023-14259
+
+Report: 23-025093/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+5/22/2023  9:45 PM
+Location
+STATE ST EXT
+Int of PARK AV STATE ST STATE ST EXT, PORTLAND
+Type Of Crash
+Intersection Movement
+MDOT ID
+2023-14391
+
+Report: 23-013545/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+3/19/2023  8:15 PM
+Location
+PARK AV
+Int of HIGH ST HIGH ST EXT PARK AV, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-8723
+
+Report: 23-046194/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+8/30/2023  1:21 AM
+Location
+HIGH ST EXT
+Int of HIGH ST HIGH ST EXT PARK AV, PORTLAND
+Type Of Crash
+Went Off Road
+MDOT ID
+2023-25018
+
+Report: 23-028376/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+6/8/2023  4:13 PM
+Location
+High St
+Park Ave, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2023-16097
+
+Report: 23-019253/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+4/20/2023  3:44 PM
+Location
+High Street
+Park Avenue, PORTLAND
+Type Of Crash
+Intersection Movement
+MDOT ID
+2023-11859
+
+Report: 23-027274/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+6/2/2023  4:49 PM
+Location
+PARK AV
+Int of HIGH ST HIGH ST EXT PARK AV, PORTLAND
+Type Of Crash
+Intersection Movement
+MDOT ID
+2023-15626
+
+Report: 23-050447/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+9/19/2023  9:15 PM
+Location
+HIGH ST
+Int of HIGH ST HIGH ST EXT PARK AV, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-28894
+
+Report: 23-041984/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+8/9/2023  8:32 PM
+Location
+HIGH ST
+Int of GRANT ST HIGH ST, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-22887
+
+Report: 23-007446/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+2/11/2023  10:20 PM
+Location
+HIGH ST
+Int of HIGH ST HIGH ST EXT PARK AV, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-4698
+
+Report: 23-020964/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+4/30/2023  11:38 AM
+Location
+Four Leg Intersection
+HIGH ST EXT, PORTLAND
+Type Of Crash
+Intersection Movement
+MDOT ID
+2023-12339
+
+Report: 23-020088/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+4/25/2023  1:47 PM
+Location
+HIGH ST
+Int of HIGH ST SHERMAN ST, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-11924
+
+Report: 23-060904/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+11/13/2023  3:40 PM
+Location
+HIGH ST
+Int of GRANT ST HIGH ST, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-34777
+
+Report: 23-021617/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+5/4/2023  10:35 AM
+Location
+FOREST AV
+Int of FOREST AV PARK AV PORTLAND ST, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-12646
+
+Report: 23-058989/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+11/2/2023  3:30 PM
+Location
+PORTLAND ST
+Int of FOREST AV PARK AV PORTLAND ST, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-31901
+
+Report: 23-016572/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+4/5/2023  9:51 PM
+Location
+PORTLAND ST
+Int of FOREST AV PARK AV PORTLAND ST, PORTLAND
+Type Of Crash
+Intersection Movement
+MDOT ID
+2023-10411

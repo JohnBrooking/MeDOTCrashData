@@ -1,0 +1,154 @@
+Report: 22-025286/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+5/27/2022  6:11 PM
+Location
+PARK AV
+Int of PARK AV VALLEY ST, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2022-14785
+
+Report: 21-000984/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+5/24/2021  4:06 PM
+Location
+PARK AV
+Int of GILMAN ST PARK AV, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2021-12442
+
+Report: 19-002709/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+9/4/2019  3:58 PM
+Location
+FOREST ST
+Int of FOREST ST PARK AV, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2019-63955
+
+Report: 23-029257/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+6/13/2023  6:57 AM
+Location
+Three Leg Intersection
+WEYMOUTH ST, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2023-16608
+
+Report: 22-020168/PORTLAND POLICE DEPARTMENT
+Fatal (FARS)	
+Injury Level
+Fatal (FARS)
+Date/Time
+4/30/2022  2:34 PM
+Location
+PARK AV
+Int of MELLEN ST PARK AV, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2022-12418
+
+Report: 22-049353/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+9/21/2022  5:51 PM
+Location
+Park Avenue
+State Street, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2022-30194
+
+Report: 21-001535/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+7/29/2021  2:25 PM
+Location
+PARK AV
+Int of PARK AV STATE ST STATE ST EXT, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2021-19532
+
+Report: 18-001305/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+4/27/2018  3:18 PM
+Location
+PARK AV
+Int of HIGH ST, HIGH ST EXT, PARK AV, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2018-12887
+
+Report: 23-028376/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+6/8/2023  4:13 PM
+Location
+High St
+Park Ave, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2023-16097
+
+Report: 21-002144/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+10/1/2021  7:26 AM
+Location
+PARK AV
+Int of CUT FROM FOREST AV PARK AV, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2021-26238
+
+Report: 21-001897/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+9/6/2021  5:35 AM
+Location
+PORTLAND ST
+Int of FOREST AV PARK AV PORTLAND ST, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2021-23526
+

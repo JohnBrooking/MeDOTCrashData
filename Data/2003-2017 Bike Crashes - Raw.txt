@@ -1,0 +1,363 @@
+Report: 07-001595/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+5/17/2007  10:00 PM
+Location
+PARK AVE
+, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2007-14912C
+
+Report: 09-2866/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+10/5/2009  4:35 PM
+Location
+PARK AV
+, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2009-24841C
+
+Report: 16-002240/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+7/20/2016  5:24 PM
+Location
+VALLEY ST
+Int of PARK AV, VALLEY ST, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2016-20777
+
+Report: 05-003026/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+9/6/2005  8:32 AM
+Location
+Park Ave
+, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2005-39550C
+
+Report: 09-002262/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+8/5/2009  9:55 AM
+Location
+PARK AV
+, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2009-17411C
+
+Report: 14-002333/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+8/11/2014  7:32 AM
+Location
+PARK AV
+Int of DEERING AV, PARK AV, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2014-21637
+
+Report: 08-3031/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+11/5/2008  8:17 AM
+Location
+PARK AV
+, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2008-28274C
+
+Report: 17-001996/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+6/22/2017  9:36 AM
+Location
+DEERING AV
+Int of DEERING AV, PARK AV, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2017-19143
+
+Report: 12-1195/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+5/19/2012  1:54 PM
+Location
+DEERING AV
+Int of DEERING AV, PARK AV, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2012-28646
+
+Report: 11-00002836/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+10/6/2011  9:17 PM
+Location
+Park Avenue
+Mellen Street, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2011-11990
+
+Report: 11-00002836/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+10/6/2011  9:17 PM
+Location
+Park Avenue
+Mellen Street, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2011-11990
+
+Report: 15-002226/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+6/29/2015  11:15 AM
+Location
+PARK AV
+Int of PARK AV, STATE ST, STATE ST EXT, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2015-18742
+
+Report: 15-002002/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+6/11/2015  8:00 AM
+Location
+STATE ST
+Int of PARK AV, STATE ST, STATE ST EXT, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2015-17051
+
+Report: 13-003173/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+11/8/2013  5:58 PM
+Location
+STATE ST EXT
+Int of PARK AV, STATE ST, STATE ST EXT, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2013-28225
+
+Report: 11-001617/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+6/6/2011  8:55 AM
+Location
+PARK AV
+, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2011-8646C
+
+Report: 15-002226/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+6/29/2015  11:15 AM
+Location
+PARK AV
+Int of PARK AV, STATE ST, STATE ST EXT, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2015-18742
+
+Report: 2484/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+7/30/2004  6:52 PM
+Location
+HIGH ST
+, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2004-25859C
+
+Report: 14-2866/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+9/28/2014  6:00 PM
+Location
+HIGH ST
+Int of HIGH ST, HIGH ST EXT, PARK AV, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2014-26371
+
+Report: 07-2990/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+9/30/2007  6:00 PM
+Location
+PARK AV
+, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2007-27001C
+
+Report: 15-001930/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+6/1/2015  10:30 PM
+Location
+PARK AVENUE
+HIGH STREET EXTENSION, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2015-16781
+
+Report: 16-000694/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+2/27/2016  12:08 AM
+Location
+HIGH ST
+Int of HIGH ST, HIGH ST EXT, PARK AV, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2016-6678
+
+Report: 10-02224/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+8/26/2010  1:16 PM
+Location
+PORTLAND ST
+, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2010-18325C
+
+Report: 06-002754/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+9/9/2006  6:53 AM
+Location
+FOREST AVE
+, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2006-25148C
+
+Report: 09-2722/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+9/20/2009  7:44 PM
+Location
+FOREST AV
+, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2009-24833C
+
+Report: 11-2244/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+8/4/2011  11:58 AM
+Location
+PORTLAND ST
+0509469 POR,FOREST,PARK AVE,PORTLAND, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2011-7451
+
+Report: 10-000945/PORTLAND POLICE DEPARTMENT
+Injury	
+Injury Level
+Injury (non-fatal)
+Date/Time
+4/14/2010  6:22 PM
+Location
+FOREST AV
+, PORTLAND
+Type Of Crash
+Bicycle
+MDOT ID
+2010-7855C

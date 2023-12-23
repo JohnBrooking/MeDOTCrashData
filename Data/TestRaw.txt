@@ -1,0 +1,41 @@
+Report: 23-014402/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+3/24/2023  4:46 PM
+Location
+PARK AV
+Int of PARK AV ST JOHN ST, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-9370
+
+Report: 23-014530/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+3/25/2023  8:53 AM
+Location
+ST JOHN ST
+Int of PARK AV ST JOHN ST, PORTLAND
+Type Of Crash
+Rear End / Sideswipe
+MDOT ID
+2023-9380
+
+Report: 23-066366/PORTLAND POLICE DEPARTMENT
+Property Damage Only	
+Injury Level
+Property Damage Only
+Date/Time
+12/17/2023  2:48 PM
+Location
+ST JOHN ST
+Park Avenue And St John Street, PORTLAND
+Type Of Crash
+Intersection Movement
+MDOT ID
+2023-37996
